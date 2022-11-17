@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img width="90" src="https://khoinguonsangtao.vn/wp-content/uploads/2022/08/hinh-anh-ngau-anime-dep-lanh-lung-mat-hai-mau.jpg"/>
+    <h2>
+        Chào các bạn mình là Hồ Sỹ Nam <hr>
+    <h2>
+        Mình là nam
+    <h2>
+        Sở thích của mình là 
+    <h2>
+        Ăn 
+    <H2>
+        Ngủ 
+    <H2>
+        Code
+    <H2>
+        Đi chơi 
+     <H2>
+        Xem phim
+    <H2>
+        Các bạn có câu hỏi gì muốn đặt ra cho mik ko <input type="name" value="">
+    <H2>
+        Gmail : hosynam1405@gmail.com
+    <H2>
+        Điền tên bạn vào đây <input type="name" value="">
+    <H2>
+        Bạn có gấu ko <input type="" name="" value="">
+    <H2>
+        Bạn có mê gái ko <input type="" name="" value="">
+    <H2> 
+       <label> Giới tính của bạn là gì : <label>
+       <input type="radio" name="gau">Bê đê <input type="radio" name="gau">Thẳng <input type="radio" name="gau">Nữ
+    <H2>
+        Bye bye
+</body>
+</html>
